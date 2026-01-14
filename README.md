@@ -33,8 +33,8 @@ A small random perturbation is added to help escape local minima.
 - MATLAB toolboxes for plotting and visualization (e.g., MATLAB Graphics).
 
 
-How to Run
-Open MATLAB
-Run the script:
+## How to Run
+- Open MATLAB
+- Run the script:
 ```bash
 obstacle_avoiding1.m
